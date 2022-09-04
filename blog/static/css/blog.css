@@ -1,0 +1,17 @@
+body {
+    padding-left: 15px;
+}
+h1 a {
+    color: #EC25A3;
+    font-family: 'Lobster';
+}
+
+.post {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.page-header {
+    background: #26E6B4;
+    text-align: center;
+}
